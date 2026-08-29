@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer.<br>I'm currently working on a blog module application that can be integrated on any html websites.
+Software Testing professional with hands-on experience in Manual Testing and Selenium WebDriver automation using Java, TestNG, and Maven. Familiar with SDLC, STLC, Agile methodology, test case design, defect reporting, SQL, and Git. Strong analytical and problem-solving skills with a focus on software quality.
 
 
 ## 🌐 Socials:
